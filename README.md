@@ -1,2 +1,2 @@
 # Twittermap
-It creates a map of twitter municipalities' account and their respective number of followers.
+It creates a map of twitter municipalities' accounts and their number of followers.
